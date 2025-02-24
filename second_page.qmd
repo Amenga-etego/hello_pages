@@ -1,0 +1,17 @@
+---
+title: "second_page"
+---
+
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+
+
+```{r}
+reactable(iris)
+```
